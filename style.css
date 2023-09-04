@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+
+.num-btn{
+    background-color: #333333;
+    color: white;
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+    border: none;
+    font-size: 22px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.operator-btn{
+    background-color: #fea00a;
+    color: white;
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+    border: none;
+    font-size: 26px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.clear-btn{
+    background-color: #333333;
+    color: white;
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+    border: none;
+    font-size: 17px;
+    cursor: pointer;
+    margin-right: 5px;
+}
