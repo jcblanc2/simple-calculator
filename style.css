@@ -2,6 +2,16 @@ body{
     background-color: black;
 }
 
+.container{
+    text-align: center;
+}
+
+.calculation{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
 .num-btn{
     background-color: #333333;
     color: white;
